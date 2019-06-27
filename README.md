@@ -2,7 +2,6 @@
 This is completely voice based chatbot.
 And its completely working in internet based,because i have implemented google api to complete this project.
 we need good speed of internet connection to use this one.
-This is completely in one file we can make it front end application.
 
 i have used python libraries like pyttsx3 which convert text to speech and another one is speechrecognition.
 which we are using for recognising the speech.

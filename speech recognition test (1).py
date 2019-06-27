@@ -121,9 +121,6 @@ if __name__ == "__main__":
         elif 'open facebook' in query:
             webbrowser.open("facebook.com")
             
-        elif'hi' in query:
-            speak("hello what is your name")
-            
                 
         elif 'thank you' in query:
             speak('you welcome')

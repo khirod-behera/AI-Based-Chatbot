@@ -8,10 +8,15 @@ i have used python libraries like pyttsx3 which convert text to speech and anoth
 which we are using for recognising the speech.
 
 so before using this one we need to install those libraries,
-for pyttsx3 we need to give the command pip install pyttsx3 for python 
+
+for pyttsx3 we need to give the command pip install pyttsx3 for python.
+
 if we are using jupyter or anaconda we need to install by giving the command  conda install -c auto pyttsx
+
 next one is Speech Recognition for installing this one we can install by pip install speechrecognition
+
 for jupyter we can install by   conda install -c conda-forge speechrecognition
+
 next i have taken wikipedia and datetime we can install like this .
 
 its all done now.
